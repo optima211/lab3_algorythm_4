@@ -1,0 +1,6 @@
+C:\Users\Михаил\Documents\Visual Studio 2019\lab3_algorythm_4\bin\Debug\lab3_algorythm_4.exe.config
+C:\Users\Михаил\Documents\Visual Studio 2019\lab3_algorythm_4\bin\Debug\lab3_algorythm_4.exe
+C:\Users\Михаил\Documents\Visual Studio 2019\lab3_algorythm_4\bin\Debug\lab3_algorythm_4.pdb
+C:\Users\Михаил\Documents\Visual Studio 2019\lab3_algorythm_4\obj\Debug\lab3_algorythm_4.csprojAssemblyReference.cache
+C:\Users\Михаил\Documents\Visual Studio 2019\lab3_algorythm_4\obj\Debug\lab3_algorythm_4.exe
+C:\Users\Михаил\Documents\Visual Studio 2019\lab3_algorythm_4\obj\Debug\lab3_algorythm_4.pdb
